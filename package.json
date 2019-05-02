@@ -26,15 +26,15 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "through2": "^2.0.1",
-    "gulp-util": "^3.0.7",
-    "angular-gettext-tools": "^2.2.0",
-    "lodash.isstring": "^4.17.5"
+    "through2": "^3.0.1",
+    "gulp-util": "^3.0.8",
+    "angular-gettext-tools": "^2.4.1",
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "eslint": "^2.10.2",
-    "mocha": "^2.4.5",
-    "pofile": "^1.0.2"
+    "chai": "^4.2.0",
+    "eslint": "^5.16.0",
+    "mocha": "^6.1.4",
+    "pofile": "^1.0.11"
   }
 }
